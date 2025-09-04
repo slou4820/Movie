@@ -1,6 +1,7 @@
 # GEOG 594 - Web 01
 
 **Name:** Shangyu Lou  
+
 **Course Link:** [Canvas GEOG 594](https://sdsu.instructure.com/courses/186022) 
 
 **My Definition of Big Data:**  
