@@ -1,9 +1,9 @@
-## Lou Shangyu
+# GEOG 594 - Web 01
 
-## [BDA/GEOG594 class] (https://sdsu.instructure.com/courses/186022)
+**Name:** Shangyu Lou  
+**Course Link:** [Canvas GEOG 594](https://sdsu.instructure.com/courses/186022) 
+**My Definition of Big Data:**  
+Big data is a representation of the world, and massive data can maximize the approximation to the real world. 
 
-## Definiation of Big Data:
-### Big data is a representation of the world, and massive data can maximize the approximation to the real world.
+![My Photo](https://github.com/slou4820/Movie/blob/main/IMG_6426.JPG)  
 
-## Photo:
-![Photo of Mine.](https://github.com/slou4820/Movie/blob/main/IMG_6426.JPG)
